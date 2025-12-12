@@ -1,0 +1,7 @@
+{
+  "name": "Copy of JARVIS HUD Interface",
+  "description": "A Tony Stark inspired AR interface with face tracking and gesture-controlled 3D visualization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
